@@ -1,12 +1,17 @@
 # Serenity
 
-## Allgemeine InfosDSCI0014
+## Allgemeine Infos
 
 Werft: Dehler
+
 Modellbezeichnung: Varianta 65
+
 Konstrukteur: E.G. van de Stadt
+
 Baujahr: 1974
+
 Derzeitiger Name: Serenity
+
 Bootsnummer:
 
 ## Technische Daten
