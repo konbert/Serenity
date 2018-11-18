@@ -29,11 +29,16 @@
 
 ## Motor
 
+### Benzin
 * **Typ:** Aussenborder
 * **Hersteller:** Yamaha
 * **Modell:** 
 * **Klasse:** 2-Takt
 * **Leistung:** 5PS
 
+### Elektro
+* **Typ:** Aussenborder
+* **Hersteller:** Torqeedo
+* **Modell:** 1003CL
 
 
