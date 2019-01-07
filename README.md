@@ -7,7 +7,8 @@
 * **Konstrukteur:** E.G. van de Stadt  
 * **Baujahr:** 1974  
 * **Derzeitiger Name:** Serenity  
-* **Bootsnummer:**  
+* **Bootsnummer:**  55530-A
+* **Versicherung:** Pantaenius / 11310823-11
   
 ## Technische Daten
 
